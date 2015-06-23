@@ -1,0 +1,10 @@
+<?php
+    include('Form/FormDecorators.class.php');
+    include('Form/FormAttribs.class.php');
+    include('Form/Form.class.php');
+    include('Form/FormFields.class.php');
+    include('Form/FormOptionsFields.class.php');
+    include('Form/FormTextField.class.php');
+    include('Form/FormSelectField.class.php');
+    include('Form/FormCheckField.class.php');
+    include('Form/FormRadioField.class.php');
